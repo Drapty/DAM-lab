@@ -1,2 +1,2 @@
 # DAM-lab
-Laboratoare Lungu Andrei-Marian
+Laboratoare Dezvoltarea aplicatilor mobile Lungu Andrei-Marian
