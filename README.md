@@ -1,2 +1,2 @@
 # DAM-lab
-Laboratoare
+Laboratoare Lungu Andrei-Marian
